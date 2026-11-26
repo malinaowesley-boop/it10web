@@ -1,0 +1,48 @@
+
+ /* body{
+    display: flex;
+ } */
+
+ h1 {
+     color: blue;
+     text-align: center;
+ }
+
+
+ .title {
+     color: pink;
+     background-color: black;
+ }
+
+ div {
+     width: 300px;
+     border: 1px solid black;
+     padding: 10px;
+     margin: 10px; 
+     margin: 20px 20px;
+     display: inline-block;
+ }
+
+ .container1{
+    background-color: rgb(248, 192, 108);
+ }
+
+ .container2{
+    background-color: aquamarine;
+ }
+
+.container1 p{
+    color: blue;
+ }
+
+ #cont2{
+    box-shadow: 10px 5px black ;
+ }
+
+ .container2:hover{
+    background-color: yellow;
+    color:black;
+    cursor: grab;
+    border-radius: 75px;
+  
+ }
